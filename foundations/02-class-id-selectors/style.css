@@ -1,0 +1,17 @@
+/* stylesheet for 02-class-id-selctors */
+
+.odd-style-one, .odd-style-two {
+    background-color: #c95c8b; font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.odd-style-two {
+    font-size: 24px;
+}
+
+#second {
+    color: #0f0fa9; font-size: 36px;
+}
+
+#fourth {
+    font-weight: bold; background-color: #2ee596; font-size: 24px;
+}
